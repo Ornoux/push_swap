@@ -1,0 +1,8 @@
+recuperer les nombres dans la pile A tableau de int
+
+parsing : argv doit contenir que des chiffres
+          si le nombre est 0123 c'est pas valide,
+
+
+Gerer ces cas : ./push_swap "1 2 3 4 5 6 7896 5415 5445" --------> 
+                ./push_swap 1 2 3 4 5 6 7 8 9 1 4 5 2 -----------> while (i < argc)
